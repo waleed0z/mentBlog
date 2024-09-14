@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-q+(-iayxyr-lur7e2_bs8j&&@t0sodpom%mlxt=9nfl86a3+ku
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://mentblog.onrender.com']
+ALLOWED_HOSTS = ['mentblog.onrender.com', 'www.mentblog.onrender.com']
 
 
 # Application definition
